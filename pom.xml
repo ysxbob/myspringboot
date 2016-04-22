@@ -12,7 +12,8 @@
         <spring.version>4.2.5.RELEASE</spring.version>
         <httpcomponents.version>4.4.1</httpcomponents.version>
         <mybatis.version>3.2.2</mybatis.version>
-        <tomcat.version>7.0.62</tomcat.version>
+        <!-- <tomcat.version>7.0.62</tomcat.version> -->
+        <tomcat.version>7.0.69</tomcat.version>
     </properties>
 
     <parent>
